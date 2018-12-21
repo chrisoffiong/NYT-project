@@ -1,0 +1,12 @@
+.jumbotron {
+    text-align: center;
+    background-image: url("http://georgetownpl.org/wp-content/uploads/2016/01/NYTimes-banner.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: black;
+}
+
+.form-group {
+    width: 100%;
+    
+}
