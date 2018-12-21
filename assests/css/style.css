@@ -6,6 +6,9 @@
     background-color: black;
 }
 
+.text-center {
+    border: brown 1px;
+}
 .form-group {
     width: 100%;
     
